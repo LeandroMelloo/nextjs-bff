@@ -1,0 +1,5 @@
+1° npx create-next-app --typescript
+2° npm install @prisma/client
+3° npx prisma init
+4° npx prisma migrate dev
+5° sqlite3 prisma/dev.db -> .tables

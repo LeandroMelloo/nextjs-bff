@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/chats
+Content-Type: application/json
+
+{
+    "name": "Chat 2",
+    "lastMessage": "Message 2"
+}
